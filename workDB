@@ -1,0 +1,5 @@
+#script to work with database file
+import subprocess
+file=open(r"file_path","r")
+subprocess.Popen(file).communicate()
+print(f"your commands are{file}")
