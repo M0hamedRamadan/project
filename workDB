@@ -1,3 +1,4 @@
+#!/bin/python
 #script to work with database file
 import subprocess
 file=open(r"file_path","r")
